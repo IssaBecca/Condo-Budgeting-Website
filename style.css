@@ -1,0 +1,236 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  letter-spacing: -0.025rem;
+}
+
+.main-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  /* row-gap: 4rem; */
+}
+
+.header-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #fff;
+}
+
+.logo-container {
+  width: 100px;
+  height: 50px;
+}
+
+.logo-container img {
+  width: 100%;
+  height: 100%;
+}
+
+.get-started-container {
+  width: fit-content;
+  height: auto;
+}
+
+.get-started-container button {
+  padding: 0.9rem 2.5rem;
+  background-color: #85ff5b;
+  color: #1a1a1a;
+  outline: none;
+  border: none;
+  border-radius: 2rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.03rem;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+}
+
+.hero-section {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 8rem 5rem 8rem;
+}
+
+.hero-image-container {
+  width: 595px;
+  height: 520px;
+}
+
+.hero-image-container img {
+  width: 100%;
+  height: 100%;
+}
+
+.hero-text-container {
+  width: 40%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 2rem;
+}
+
+.hero-heading-container {
+  width: 100%;
+  height: auto;
+}
+
+.hero-heading-container h1 {
+  font-size: 4rem;
+  font-weight: 900;
+  font-family: serif;
+  color: #1a1a1a;
+  letter-spacing: -0.031rem;
+}
+
+.hero-body-container {
+  width: 100%;
+  height: auto;
+}
+
+.hero-body-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+  font-weight: 400;
+  letter-spacing: 0.05rem;
+  color: #212121;
+}
+
+.perks-section {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  padding: 4rem 4rem;
+  background-color: #1f5d5d;
+  row-gap: 5rem;
+}
+
+.perks-header-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2rem;
+  row-gap: 1rem;
+}
+
+.perks-header-title-container {
+  width: fit-content;
+  height: auto;
+}
+
+.perks-header-title-container h1 {
+  color: #fff;
+  font-size: 2.7rem;
+  font-family: serif;
+  font-weight: 800;
+}
+
+.perks-header-subtitle-container {
+  width: fit-content;
+  height: auto;
+}
+
+.perks-header-subtitle-container p {
+  font-size: 1.05rem;
+  font-weight: 400;
+  color: #fffdf4;
+}
+
+.perks-body-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.perks-card-container {
+  width: 24%;
+  height: auto;
+  border-right: 1px dotted #f4f4f4;
+  padding: 0 2rem 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  row-gap: 1rem;
+}
+
+.perks-card-first {
+  border-left: 1px dotted #f4f4f4;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.perks-card-top-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  row-gap: 0.5rem;
+}
+
+.perks-card-icon-container {
+  width: 100px;
+  height: 60px;
+}
+
+.perks-card-icon-container img {
+  width: 100%;
+  height: 100%;
+}
+
+.perks-card-heading-container {
+  width: fit-content;
+  height: auto;
+}
+
+.perks-card-heading-container h3 {
+  color: #fffdf4;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.perks-card-bottom-container {
+  width: 100%;
+  height: auto;
+}
+
+.perks-card-bottom-container p {
+  font-size: 0.9rem;
+  letter-spacing: 0.01rem;
+  color: #fbf8e8;
+  line-height: 1.5;
+  font-weight: 500;
+  text-align: center;
+}

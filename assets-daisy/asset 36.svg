@@ -1,0 +1,23 @@
+<svg width="98" height="97" viewBox="0 0 98 97" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M49 97C75.7858 97 97.5 75.2858 97.5 48.5C97.5 21.7142 75.7858 0 49 0C22.2142 0 0.5 21.7142 0.5 48.5C0.5 75.2858 22.2142 97 49 97Z" fill="#C5E9FF"/>
+<path d="M17.1084 24.1368C17.1084 23.5846 17.5561 23.1368 18.1084 23.1368H79.8926C80.4449 23.1368 80.8926 23.5846 80.8926 24.1368V29.2175H17.1084V24.1368Z" fill="#868686"/>
+<rect x="17.1084" y="29.2175" width="4.67285" height="44.6457" fill="#868686"/>
+<rect x="76.2197" y="29.2175" width="4.67315" height="44.6457" fill="#868686"/>
+<rect x="21.7812" y="29.2175" width="54.4382" height="44.6457" fill="#EAEAEA"/>
+<rect x="21.7812" y="33.6658" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="36.9725" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="40.2793" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="43.5861" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="46.8928" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="50.1996" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="53.5063" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="56.8131" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="60.1199" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="63.4266" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="66.7336" width="54.4382" height="1" fill="#1A1A1A" fill-opacity="0.22"/>
+<rect x="21.7812" y="69.6713" width="54.4382" height="4.19202" fill="#BCBCBC"/>
+<rect opacity="0.15" x="17.1084" y="29.2175" width="63.7841" height="2.48304" fill="#1A1A1A"/>
+<rect x="43.6387" y="71" width="3.21588" height="1.60794" rx="0.26799" fill="#8A8A8A"/>
+<rect x="51.1436" y="71" width="3.21588" height="1.60794" rx="0.26799" fill="#8A8A8A"/>
+<path d="M45.1924 71.996V74.1935C45.1924 74.2231 45.2164 74.2471 45.246 74.2471H52.6961C52.7257 74.2471 52.7497 74.2231 52.7497 74.1935V71.996" stroke="#1A1A1A" stroke-width="0.803971" stroke-linecap="square"/>
+</svg>
