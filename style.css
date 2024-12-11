@@ -803,7 +803,7 @@
   flex-direction: column;
   justify-content: start;
   align-items: start;
-  padding: 5rem 4rem;
+  padding: 7rem 4rem;
   gap: 4rem;
 }
 
@@ -896,12 +896,13 @@
 }
 
 .reflect-number-container h1 {
-  font-size: 2rem;
-  font-weight: 600;
   color: #fff;
+  font-size: 2.2rem;
+  font-family: serif;
   border: 1px solid #fbf8e8;
   border-radius: 12rem;
-  padding: 0.1rem 0.9rem;
+  padding: 0.1rem 0.8rem;
+  text-align: center;
 }
 
 .reflect-icons-container {
@@ -1012,4 +1013,133 @@
   background-color: #799e9e;
   border-top-right-radius: 0.9rem;
   border-bottom-right-radius: 0.9rem;
+}
+
+.budget-to-life-section {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+}
+
+.budget-to-life-content-container {
+  width: 100%;
+  height: auto;
+  background-color: #4c9d8d;
+  padding: 6rem 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 4rem;
+}
+
+.budget-to-life-content-top-container {
+  width: 45%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 1.5rem;
+}
+
+.budget-to-life-top-heading-container {
+  width: fit-content;
+  height: auto;
+}
+
+.budget-to-life-top-heading-container h1 {
+  font-size: 2.7rem;
+  font-family: serif;
+  font-weight: 600;
+  color: #fff;
+}
+
+.budget-to-life-top-text-container {
+  width: 100%;
+  height: auto;
+}
+
+.budget-to-life-top-text-container p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+}
+
+.budget-to-life-content-bottom-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  gap: 4rem;
+}
+
+.left-budget-to-life-container {
+  width: 48%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 2rem;
+}
+
+.budget-to-life-image-container {
+  width: 100%;
+  height: 330px;
+}
+
+.budget-to-life-image-container img {
+  width: 100%;
+  height: 100%;
+}
+
+.budget-to-life-text-container {
+  width: 80%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 1rem;
+}
+
+.budget-to-life-title-container {
+  width: fit-content;
+  height: auto;
+}
+
+.budget-to-life-title-container h3 {
+  color: #fff;
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+.budget-to-life-paragraph-container {
+  width: fit-content;
+  height: auto;
+}
+
+.budget-to-life-paragraph-container p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fffdf4;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+}
+
+.budget-to-life-link-container {
+}
+
+.budget-to-life-link-container a {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.05rem;
 }
