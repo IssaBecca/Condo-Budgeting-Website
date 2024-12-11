@@ -1136,6 +1136,8 @@
 }
 
 .budget-to-life-link-container {
+  width: fit-content;
+  height: auto;
 }
 
 .budget-to-life-link-container a {
